@@ -1,11 +1,11 @@
 # poem_generator
-Code to generate poems randomly from a word bank. Functionality for rhyming as well
+Code to generate poems randomly from a word bank. Functionality for rhyming as well. The rhyming is just based on the final few letters between words for a match on whether they "rhyme". This means there could be slant rhymes as well or just words with similar suffixes output for the rhyming poem. 
 
 ## Usage:
-python3 poem_maker.py <textfile>
+```python3 poem_maker.py <textfile>  ```
 or 
-python3 hat_poem_maker.py <textfile>
-  
+```python3 hat_poem_maker.py <textfile>  ```
+If you type in your arguments or input wrong you will get a helpful message informing you what went wrong.
 example output:
 ```
 cole@cole-UX370UAR:~/Documents/poem_maker$ python3 rhyme_poem_maker.py lotr_mod.txt
