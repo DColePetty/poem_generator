@@ -20,8 +20,8 @@ Standard Poem:
  very Drogos be other my
  elderly family I mark, face
  of documents Then blew had
- drink. reputation.All in orphan he
- to off!They but and and
+ drink. All in orphan he
+ to off but and They
 
 
 Rhyming Poem:
